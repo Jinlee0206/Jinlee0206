@@ -1,6 +1,23 @@
 <!--헤더 부분-->
 ![Header](https://capsule-render.vercel.app/api?type=soft&height=300&color=D7CEE4&text=JinLee's%20GitHub&animation=fadeIn&textBg=true&fontColor=FFFFFF)
 
+<!--인트로-->
+<h3 align="center">💫 Introduction 💫</h3>
+<div align="center">
+  게임 개발을 하고있습니다.<br>
+  Unity를 통해 2D, 3D 게임 개발을 진행한 적이 있고, UE5를 공부 중인 주니어 개발자입니다
+</div>
+<br>
+
+<!--포트폴리오-->
+<h3 align="center">📚 Portfolio 📚 </h3>
+<div align="center">
+  🌠 Unity 3D Action RPG Grim Reaper 👉 <a href="https://youtu.be/ygd3OhDwnwI"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a><br>
+  🌠 Unity 2D Defense Game 햄찌용병단 👉 <a href="https://youtu.be/xchtcEMwGy8"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.RoomNo7Gaming&pcampaignid=web_share"><img src="https://img.shields.io/badge/Google Play-white?style=flat&logo=googleplay&logoColor=414141"/></a>
+</div>
+<br>
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -40,15 +57,11 @@
 
 <br>
 
-<!--깃허브-->
+<!--가장 많이 사용한 언어 & 깃허브 스탯-->
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Jinlee0206">
   <br>
-  <br>
   <img src = "https://github-readme-stats.vercel.app/api?username=Jinlee0206&hide=contribs,prs&show_icons=true&theme=transparent">
 </p>
-
-<br>
-<!--깃허브-->
 
 <br>
